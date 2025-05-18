@@ -22,7 +22,9 @@ This is the React/Tailwind CSS frontend for the **Recursive AI Executor**, a web
  Install dependencies:
 
 npm install
-# or
+
+or
+
 yarn install
 Initialize Tailwind CSS (already pre-configured):
 
@@ -31,13 +33,13 @@ Available Scripts
 In the project directory, you can run:
 
 npm start
-  Runs the app in development mode on http://localhost:3000.
+Runs the app in development mode on http://localhost:3000.
 
 npm run build
-  Builds the app for production to the build/ folder.
+Builds the app for production to the build/ folder.
 
 npm test
-  Launches the test runner (if you add tests).
+Launches the test runner (if you add tests).
 
 Environment Variables
 Create a .env file in the frontend root if you need to override defaults:
